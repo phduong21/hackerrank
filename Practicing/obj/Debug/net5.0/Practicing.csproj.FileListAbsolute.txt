@@ -1,0 +1,16 @@
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\Practicing.exe
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\Practicing.deps.json
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\Practicing.runtimeconfig.json
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\Practicing.runtimeconfig.dev.json
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\Practicing.dll
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\ref\Practicing.dll
+E:\C# Code\Practicing\Practicing\bin\Debug\net5.0\Practicing.pdb
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.csproj.AssemblyReference.cache
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.AssemblyInfoInputs.cache
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.AssemblyInfo.cs
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.csproj.CoreCompileInputs.cache
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.dll
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\ref\Practicing.dll
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.pdb
+E:\C# Code\Practicing\Practicing\obj\Debug\net5.0\Practicing.genruntimeconfig.cache
